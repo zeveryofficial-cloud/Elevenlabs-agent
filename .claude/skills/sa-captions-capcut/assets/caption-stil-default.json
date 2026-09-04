@@ -1,0 +1,106 @@
+{
+ "_zweck": "Default-Caption-Stil für CapCut-Exporte: Wort-für-Wort-Karaoke (gelbes Highlight), von Viktor abgenommen und im Render verifiziert. CapCut-nativ erzeugt (Vorlagen-Apply auf alle Hauptuntertitel). Angewendet von scripts/caption_stil.py.",
+ "template_felder": {
+  "version": "1.0.0",
+  "effect_id": "7331663243842227461",
+  "resource_id": "7331663243842227461",
+  "third_resource_id": "7327209855083614721",
+  "name": "逐词高亮-黄",
+  "type": "text_template_subtitle",
+  "path": "/Users/yuviktor2004/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/7331663243842227461/3444c797a94138ba550e158e1d64c8e6",
+  "category_id": "",
+  "category_name": "",
+  "platform": "all",
+  "text_to_audio_ids": [],
+  "source_platform": 1,
+  "resources": [
+   {
+    "panel": "text",
+    "path": "/Users/yuviktor2004/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/110456508/d62a12a386bf578a8eb03187095d7c7d",
+    "resource_id": "7289356246623195649",
+    "source_platform": 0
+   },
+   {
+    "panel": "fonts",
+    "path": "/Users/yuviktor2004/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/160949616/c7607b2d122df39381457c4680b07498/ZY Resolve.ttf",
+    "resource_id": "7317175475195875841",
+    "source_platform": 0
+   }
+  ],
+  "formula_id": "",
+  "non_text_info_resources": [],
+  "check_flag": 7,
+  "text_template_preset_resource_id": "",
+  "is_3d": false,
+  "is_pre_rendered": false,
+  "aigc_type": "none",
+  "text_template_resource_type": "subtitle_template",
+  "request_id": "",
+  "origin_word_info": {
+   "text": "",
+   "start_time": 0,
+   "end_time": 0,
+   "words": [],
+   "keyword_ranges": []
+  },
+  "current_word_info": {
+   "text": "",
+   "start_time": 0,
+   "end_time": 0,
+   "words": [],
+   "keyword_ranges": []
+  },
+  "is_dynamic_build": false,
+  "is_ai_emoji": false,
+  "is_lyric_effect": false,
+  "lyric_group_id": "",
+  "merge_content": "",
+  "is_uneven_animation": false,
+  "material_text_ranges": [],
+  "ai_emoji_config": null,
+  "preview_time": 0.1,
+  "render_mode": 0
+ },
+ "text_stil": {
+  "fill": {
+   "content": {
+    "solid": {
+     "color": [
+      0.9882400035858154,
+      1,
+      0
+     ]
+    },
+    "render_type": "solid"
+   }
+  },
+  "strokes": [
+   {
+    "width": 0.026117999106645584,
+    "mode": 0,
+    "content": {
+     "solid": {
+      "color": [
+       0,
+       0,
+       0
+      ]
+     },
+     "render_type": "solid"
+    }
+   }
+  ],
+  "useLetterColor": true,
+  "size": 12,
+  "font": {
+   "path": "/Users/yuviktor2004/Library/Containers/com.lemon.lvoverseas/Data/Movies/CapCut/User Data/Cache/effect/160949616/c7607b2d122df39381457c4680b07498/ZY Resolve.ttf",
+   "id": "7317175475195875841"
+  }
+ },
+ "texts_material_felder": {
+  "font_path": "",
+  "font_resource_id": "",
+  "font_id": "",
+  "style_name": ""
+ }
+}
